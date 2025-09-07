@@ -36,4 +36,10 @@ Simulated Circuit
 •	ARP requests and replies are observed using Packet Tracer’s simulation mode to verify IP-to-MAC resolution.
 •	The ARP tables of PCs are checked before and after communication to confirm the working of ARP.
 
+Image
+![simulation iot](https://github.com/user-attachments/assets/04a7c547-02a0-413d-9696-4bd499023588)
+
+
+
+
  
